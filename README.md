@@ -20,7 +20,7 @@ flutter_3d_controller](https://pub.dev/packages?q=flutter+3d+controller),
 
 
 ## Access Links
-- GitHub Repository: https://github.com/<username>/<repository-name>
+- GitHub Repository: https://github.com/shedrack-moses/flutter-3D-app
 - Appetize.io Demo: https://appetize.io/app/<your-app-identifier>
 - Video Walkthrough: https://drive.google.com/file/<file-id>/view
 
